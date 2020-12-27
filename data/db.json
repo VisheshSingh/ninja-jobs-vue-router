@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "id": 123,
+      "title": "JavaScript Developer",
+      "details": "A JavaScript developer is responsible for implementing the front-end logic that defines the behavior of the visual elements of a web application. A JavaScript developer is also responsible for connecting this with the services that reside on the back-end. They are usually supported by back-end web developers, who are responsible for server-side application logic. JavaScript developers often work alongside other front-end web developers who specialize in markup and styling."
+    },
+    {
+      "id": 456,
+      "title": "React developer",
+      "details": "React. js Developers design and implement user interface components for JavaScript-based web and mobile applications using the React open source library ecosystem. These skilled front-end developers are involved in all stages of interface component design, from conception through to final testing."
+    },
+    {
+      "id": 789,
+      "title": "Vue.js developer",
+      "details": "Vue.js Developers are mainly responsible for front-end development of a web application. They write user-side logic with JavaScript set in a Vue.js progressive framework. Vue.js is a popular choice among front-end developers because of its adoptability, integrable with other libraries and existing projects, and elegance. Vue.js Developers are able to use the framework’s flexible API to create seamless transitions and animations between states that are the key to the web user’s enjoyment."
+    }
+  ]
+}
